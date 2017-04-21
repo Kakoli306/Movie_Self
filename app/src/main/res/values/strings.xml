@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Top 10 Movies</string>
+    <string-array name="movie_titles">
+        <item>The Dark knight</item>
+        <item>The little princess</item>
+        <item>Titanic</item>
+        <item>Moana</item>
+        <item>Kungfu Panda</item>
+        <item>Life is Beautiful</item>
+        <item>Wall e</item>
+        <item>Zootopia</item>
+        <item>Angry Bird</item>
+        <item>Kubo</item>
+    </string-array>
+
+    <string-array name="movie_ratings">
+        <item>Rating:7.4/10</item>
+        <item>Rating:9/10</item>
+        <item>Rating:8/10</item>
+        <item>Rating:7.5/10</item>
+        <item>Rating:8.1/10</item>
+        <item>Rating:8.2/10</item>
+        <item>Rating:8.8/10</item>
+        <item>Rating:7.8/10</item>
+        <item>Rating:8.9/10</item>
+        <item>Rating:9.0/10</item>
+        <item>Rating:8.8/10</item>
+    </string-array>
+</resources>
